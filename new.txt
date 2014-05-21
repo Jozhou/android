@@ -4,4 +4,4 @@ add a fourth line;
 branch test;
 five line;
 six line;
-
+seven line;
